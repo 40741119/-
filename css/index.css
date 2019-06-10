@@ -1,0 +1,47 @@
+body{
+	text-align:center;
+	margin:auto;
+}
+#Header{
+	text-align:center;
+	margin:auto;
+	background-color: black; 
+
+}
+#body{
+	　margin:auto;
+	　text-align:center;
+	　
+}
+#Footer{
+	　margin:auto;
+	　text-align:center;
+
+}
+#a1{
+	text-align: left;
+	list-style-type: none;
+}
+#d1{
+	font-size: 40px;
+	list-style-type: none;
+}
+#b1{
+	list-style-type: none;
+}
+#b2{
+	list-style-type: none;
+}
+#b3{
+	list-style-type: none;
+}
+#c1{
+	list-style-type: none;
+}
+#c2{
+	list-style-type: none;
+}
+#d2{
+	font-size: 40px;
+	list-style-type: none;
+}
